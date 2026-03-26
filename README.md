@@ -1,4 +1,4 @@
-# TensorTonic Solutions
+# Tensor Tonic Solutions
 
 Welcome to my TensorTonic solutions repository!
 
